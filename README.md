@@ -1,3 +1,3 @@
 # react-suspension
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-suspension)
+Lazy Loading with React Suspension ⚡️
